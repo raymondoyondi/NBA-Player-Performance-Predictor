@@ -82,7 +82,7 @@ Our models are evaluated using R-Squared ($R^2$) and MAE (Mean Absolute Error).
 ### Setup
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/raymondoyondi/NBA-Player-Performance-Predictor.git](https://github.com/raymondoyondi/NBA-Player-Performance-Predictor.git)
+    git clone (https://github.com/raymondoyondi/NBA-Player-Performance-Predictor.git)
     cd NBA-Player-Performance-Predictor
     ```
 
