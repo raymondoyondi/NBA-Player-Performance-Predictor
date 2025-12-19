@@ -96,28 +96,13 @@ Our models are evaluated using R-Squared ($R^2$) and MAE (Mean Absolute Error).
     ```bash
     pip install -r requirements.txt
     ```
-
-### Running the Project
-* **To scrape fresh data:**
-    ```bash
-    python src/data_scraper.py
-    ```
-* **To train the models:**
-    ```bash
-    python src/train_model.py
-    ```
-* **To launch the dashboard:**
+    
+4. **Launch the app:**
     ```bash
     streamlit run app/main.py
     ```
 
 ---
-
-## 🗺️ Roadmap
-- [ ] Add support for "Playoff Intensity" multipliers.
-- [ ] Integrate Twitter/X sentiment analysis to account for trade rumors.
-- [ ] Expand the dashboard to include team-level win-total predictions.
-- [ ] Deploy the app using AWS EC2 or Heroku.
 
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
