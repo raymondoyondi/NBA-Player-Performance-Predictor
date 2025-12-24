@@ -22,7 +22,7 @@ Predicting athletic performance is a complex challenge influenced by aging, team
 | :--- | :--- |
 | **Language** | Python 3.9+ |
 | **Data Processing** | Pandas, NumPy, BeautifulSoup4 |
-| **Machine Learning** | Scikit-Learn, XGBoost, CatBoost |
+| **Machine Learning** | Scikit-Learn, XGBoost |
 | **Visualization** | Matplotlib, Seaborn, Plotly, Streamlit |
 | **DevOps/Env** | Jupyter, Git, Docker |
 
